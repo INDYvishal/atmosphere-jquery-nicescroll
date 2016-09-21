@@ -1,4 +1,4 @@
-jquery-nicescroll upgraded version 3.6.6
+jquery-nicescroll upgraded version 3.6.8
 ===============
 
 

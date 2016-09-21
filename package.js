@@ -1,8 +1,8 @@
 Package.describe({
   name: "indycloud:jquery-nicescroll",
   summary: "Nicescroll is a jquery plugin, nice customizabled scrollbars with a very similar ios/mobile style.",
-  version: "3.6.6",
-  git: "https://github.com/INDYvishal/meteor-jquery-nicescroll.git"
+  version: "3.6.8",
+  git: "https://github.com/INDYvishal/atmosphere-jquery-nicescroll.git"
 });
 
 Package.onUse(function (api) {
